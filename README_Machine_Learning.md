@@ -15,9 +15,7 @@ The goal of this repository is to showcase practical applications of machine lea
 ## Projects
 - **Churn Prediction**: Predict customer churn for a telecom company using classification models. Includes data preprocessing, EDA, and handling class imbalance.
 - **Oil Production Forecasting**: Forecast oil production using machine learning models based on time series data from the Volve oil field.
-- **Fraud Detection**: Identify fraudulent transactions in an e-commerce dataset using machine learning classification models.
-- **House Price Prediction**: Predict housing prices using regression models and feature engineering to extract key features from real estate data.
-- **Natural Language Processing**: Text classification projects utilizing NLP techniques such as TF-IDF, bag-of-words, and word embeddings.
+
 
 ## Tech Stack
 - **Python**: Core programming language used for data manipulation, model building, and visualization.
@@ -47,11 +45,6 @@ The goal of this repository is to showcase practical applications of machine lea
 - **Model Deployment**: Deploy models as web applications using `Flask` or `Streamlit` for real-time predictions.
 - **Data Augmentation**: Use data augmentation techniques to improve model generalization, especially in image and text-related projects.
 
-## Contributors
-- Mahammad Salman Shaik
-- Akram Mohammad
-- Imtiyaz Ali Syed
-- Faisal Malik Mohammed
 
 ## Contact
-For any questions or feedback, please contact [Mahammad Salman Shaik](mailto:youremail@example.com).
+For any questions or feedback, please contact [Mahammad Salman Shaik]).
