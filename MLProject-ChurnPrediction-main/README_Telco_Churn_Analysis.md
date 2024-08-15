@@ -62,11 +62,7 @@ The model successfully predicts customer churn with a balanced approach to handl
 - **Feature Engineering**: Derive new features such as customer engagement scores.
 - **Deployment**: Build a web app to make predictions based on customer inputs in real-time.
 
-## Contributors
-- Mahammad Salman Shaik
-- Akram Mohammad
-- Imtiyaz Ali Syed
-- Faisal Malik Mohammed
+
 
 ## Contact
 For any questions or feedback, please contact [Mahammad Salman Shaik](mailto:youremail@example.com).
